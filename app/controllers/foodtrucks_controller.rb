@@ -1,0 +1,3 @@
+class FoodtrucksController < ApplicationController
+  
+end
